@@ -1,2 +1,0 @@
-# Aptesh
-about your project
